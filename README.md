@@ -1,2 +1,3 @@
-# Ola_Mundo
- primeiro repositorio curso git e github
+# Olá, Mundo!
+ Primeiro repositorio curso git e github.
+ Testando alterações atraves do visual studio.
